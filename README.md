@@ -9,6 +9,12 @@
 
 在地铁上用微信让 Claude 帮你改代码、查日志、跑测试。
 
+> **这是一个实验教学项目**，配套视频讲解和完整教学文档。
+>
+> **视频讲解**：[YouTube](https://youtu.be/-xCZ9KtaC04) | [B站](https://www.bilibili.com/video/BV18rXbBaEK7/)
+>
+> **教学文档**：[docs/00-overview.md](docs/00-overview.md)（iLink 协议解析、架构设计、Claude Agent SDK 深度科普、踩坑记录等）
+
 ## 前置条件
 
 | 依赖 | 最低版本 | 说明 |
